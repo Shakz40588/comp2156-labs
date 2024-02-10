@@ -4,7 +4,8 @@
   "description": "comp2156 lab excercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"No CI Configure\""
   },
   "keywords": [],
   "author": "Shakil Ahmed",
