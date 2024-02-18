@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "comp2156 lab excercise",
   "main": "index.js",
+  "homepage": "https://shakz40588.github.io/comp2156-labs/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^18.2.0",
